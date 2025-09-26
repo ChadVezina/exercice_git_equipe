@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Chad Vézina
 console.log("test")
 
